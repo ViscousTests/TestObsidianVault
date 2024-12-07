@@ -7,6 +7,3 @@ See the article [How I use Obsidian](https://stephango.com/vault) on my site for
 1. [Download this vault](https://github.com/kepano/kepano-obsidian/archive/refs/heads/main.zip)
 2. Unzip the .zip file to a folder of your choosing
 3. Open Obsidian and create a new vault pointing to that folder
-
-
-Test
