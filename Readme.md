@@ -6,7 +6,7 @@ See the article [How I use Obsidian](https://stephango.com/vault) on my site for
 
 ## Get started
 
-Vd
+
 
 1. [Download this vault(https://github.com/kepano/kepanobsidian/archive/refs/heads/main.zip)
 
