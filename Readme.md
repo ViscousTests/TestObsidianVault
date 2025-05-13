@@ -4,7 +4,11 @@ My persofnal [Obsidian](https://obsidian.md/) vault template. A bottom-up approa
 
 See the article [How I use Obsidian](https://stephango.com/vault) on my site for detailed explanation of this vault structure.
 
+
+
 ## Get 
+
+
 
 
 
