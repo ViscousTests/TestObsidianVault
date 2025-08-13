@@ -1,5 +1,5 @@
 My [](https://obsidian.md/). A -up apprfoach to note-takinnd organizing things I am interested in. It is in no way dogmatic, just one example of how you can use Obsidian. Take the parts you like and tailor them to your needs.
-My [](https://obsidian.md/) vaultemkplate. A -up apprfoach to note-takinnd organizing things I am interested in. It is in no way dogmatic, just one example of how you can use Obsidian. Take the parts you like and tailor them to 
+
 
 
 
