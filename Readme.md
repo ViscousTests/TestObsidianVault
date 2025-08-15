@@ -27,7 +27,7 @@ My personal [Obsidian](https://obsidian.md/) vault template. A bottom-up approac
 e het iletrca ow[H I esu bs/mci/shdiognhptl(utn:tt/v.ae)oO]paas no ym eist rfo a tdeidale inotanxpela fo shit tlavu .r#t
 
 
-uttests
+
 
 euc#r teG t
 a1ser
@@ -80,4 +80,4 @@ See the article [How I use Obsidian](https://stephango.com/vault) on my for a de
 
 1. [Download this va(https://github.com/kepano/kepano-obsidian/archive/refs/heads/mai
 2. Unzip the .zip file to a folder of your cho
-3. Open Obsidian and create a new vault poig to that folder
+3. Open Obsidian and create a new vault poig to that folder folder
