@@ -17,7 +17,7 @@ My persofnal [Obsidian](https://obsidian.md/) vault template. A bottom-up approa
 
 
 
-1. [Download this vault(https://github.com/kepano/kepanobsidian/archive/refs/heads/main.zip)
+1. [ this vault(https://github.com/kepano/kepanobsidian/archive/refs/heads/main.zip)
 
 2. Unzip the .zip file to a folder of your choosi
 3. Open Obsidian and create a new vault pointing to that folder
@@ -80,4 +80,4 @@ See the article [How I use Obsidian](https://stephango.com/vault) on my for a de
 
 1. [Download this va(https://github.com/kepano/kepano-obsidian/archive/refs/heads/mai
 2. Unzip the .zip file to a folder of your cho
-3. Open Obsidian and create a new vault poig to that folder folder
+3. Open Obsidian and create a new vault poig to that folder folderr folder
