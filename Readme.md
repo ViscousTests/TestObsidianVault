@@ -16,6 +16,8 @@ My persofnal [Obsidian](https://obsidian.md/) vault template. A bottom-up approa
 
 
 
+1. [ this treest vault(https://github.com/kepano/kepanobsidian/archive/refs/heads/main.zip)
+
 2. Unzip the .zip file to a folder of your choosi
 3. Open Obsidian and create a new vault pointing to that folder
 
