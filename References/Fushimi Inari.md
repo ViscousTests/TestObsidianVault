@@ -4,7 +4,7 @@ category:
 tags:
   - places
 type:
-  - "[[Shrines]]"
+  - "[[Shris]]"
   - "[[Parks]]"
 loc:
   - "[[Kyoto]]"
