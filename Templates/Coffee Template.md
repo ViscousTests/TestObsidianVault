@@ -10,5 +10,5 @@ rating:
 last: 
 tags:
   - coffee
-  - references
+  - reference
 ---
