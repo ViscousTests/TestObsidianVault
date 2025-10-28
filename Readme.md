@@ -1,4 +1,4 @@
- apprfosffachto note-takinnd organizing things I am interested in. It is in no way dogmatic, just one example of how you can use Obsidian. Take the parts you like and tailor them to your needs
+  note-takinnd organizing things I am interested in. It is in no way dogmatic, just one example of how you can use Obsidian. Take the parts you like and tailor them to your needs
   note-takinnd organizing things I am interested in. It is in no way dogmatic, just one example of how you can use Obsidian. Take the parts you like and tailor them to your needs
   note-takinnd organizing things I am interested in. It is in no way dogmatic, just one example of how you can use Obsidian. Take the parts you like and tailor them to your needs
   note-takind organizing things I am interested in. It is in no way dogmatic, just one example of how you can use Obsidian. Take the parts you like and tailor them to your needs
