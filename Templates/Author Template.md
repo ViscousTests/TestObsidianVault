@@ -8,7 +8,7 @@ tags:
 
 ```dataview
 table without id
-	file.link as Title,
+	file.link ass Title,
 	year as Year,
 	rating as Rating
 where
