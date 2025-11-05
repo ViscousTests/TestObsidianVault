@@ -19,8 +19,7 @@ My persofnal [Obsidian](https://obsidian.md/) vault template. A bottom-up approa
 
 
 
-wee
-
+we
 
 1. [ this treest vault(https://github.com/kepano/kepanobsidian/archive/refs/heads/main.zip)
 
