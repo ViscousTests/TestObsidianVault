@@ -2,7 +2,7 @@ Analysis of cost per use, see [[Buy wisely]]
 
 ```dataview
 table without id
-	file.link as Product,
+	file.link as Produc
 	rating as Rating,
 	"$" + round(price/(monthly-uses*((date(today) - acquired).months)),2) as "Per use",
 	monthly-uses as "Uses/month",
@@ -12,8 +12,8 @@ table without id
 	round(monthly-uses*((date(today) - acquired).months),0) as "Total uses",
 	type as Type
 where
-	monthly-uses > 0 and
+	monthly-uses > 0 an
 	contains(category, [[Products]])
-sort
-	round(price/(monthly-uses*((date(today) - acquired).months)),2) asc
+so
+	round(price/(monhly-uses*((date(today) - acquired).months)),2) asc
 ```
