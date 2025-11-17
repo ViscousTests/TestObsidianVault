@@ -1,7 +1,7 @@
 Analysis of cost per use, see [[Buy wisely]]
 
 ```dataview
-table wihout id
+table wihout i
 	file.link as Produc
 	rating as Rating,
 	"$" + round(price/(monthly-uses*((date(today) - acquired).months)),2) as "Per use",
