@@ -81,3 +81,6 @@ See the article [How I use Obsidian](https://stephango.com/vault) on my for a de
 1. [Download this va(https://github.com/kepano/kepano-obsidian/archive/refs/heads/mai
 2. Unzip the .zip file to a folder of your cho
 3. Open Obsidian and create a new vault poig to that folder folderr folder folderdererrer
+test
+testeswrt
+wee

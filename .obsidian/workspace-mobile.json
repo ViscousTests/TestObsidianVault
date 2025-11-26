@@ -98,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "README.md",
+            "file": "Readme.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -121,8 +121,8 @@
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
-          "icon": "links-going-out",
-          "title": "Outgoing links"
+          "icon": "lucide-ghost",
+          "title": "outgoing-link"
         }
       },
       {
@@ -145,6 +145,11 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "markdown-importer:Open format converter": false,
+      "zk-prefixer:Create new unique note": false,
+      "random-note:Open random note": false,
+      "workspaces:Manage workspace layouts": false,
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -155,13 +160,15 @@
   },
   "active": "fbfc9670621157cf",
   "lastOpenFiles": [
+    "tet2025-11-20wer.md",
+    "Readme.md",
+    "Product usage analysis.md",
     "README.md",
     "Notes/2023 Japan Trip.md",
     "Notes/Product usage analysis.md",
     "Notes/2023-09-12 Meeting with Steph.md",
     "Notes/Minimal Theme.md",
     "Notes",
-    "Readme.md",
     "LICENSE",
     "Templates/Stock Template.md",
     "Templates/People Template.md",
@@ -181,8 +188,6 @@
     "Templates/City Template.md",
     "Templates/Restaurant Template.md",
     "Templates/Trip Template.md",
-    "Templates/Backlinks Template.md",
-    "Templates/Company Template.md",
     "Templates",
     "Daily",
     "References",
