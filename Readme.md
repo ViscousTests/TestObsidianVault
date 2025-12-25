@@ -12,14 +12,14 @@ jdkfkfheheehhe aptprfrtetosffachto note-takinnd organizing things I am intereste
 
 
 
-ssdfs
+ssdfssd
 
 My persnal [Obsidiansss](https://obsidian.md/) vault template. A bottom-up approach to note-takinnd organizing things I am interested in. It is in no way dogmatic, just one example of how you can use Obsidian. Take the parts you like and tailor them to your needs.
 
-
+dd
 
 we
-ss
+sss
 1. [ this treest vault(https://github.com/kepano/kepanobsidian/archive/refs/heads/main.zip)
 s
 2. Unzip the .zip file to a folder of your choosi
