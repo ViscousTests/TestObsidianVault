@@ -14,7 +14,7 @@ My persnal [Obsidiansss](https://obsidian.md/) vault template. A bottom-up appro
 
 dd
 
-we
+
 sss
 1. [ this treest vault(https://github.com/kepano/kepanobsidian/archive/refs/heads/main.zip)
 s
